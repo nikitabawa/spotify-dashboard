@@ -8,7 +8,7 @@ import {Button} from "react-bootstrap";
 
 function App() {
   const CLIENT_ID = "9279e1d414564440bc2c5a10bfd69c6b";
-  const REDIRECT_URI = "http://localhost:3000/";
+  const REDIRECT_URI = "https://nikitabawa.github.io/spotify-dashboard/";
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
   const RESPONSE_TYPE = "token";
 
